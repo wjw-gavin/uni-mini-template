@@ -1,5 +1,5 @@
 # mini-template-next
-uni-app + uView-ui + native-lodash
+uni-app + uView-ui + unocss + native-lodash
 
 - [uni-app](https://uniapp.dcloud.net.cn)
 - [uView-ui](https://www.uviewui.com/components/intro.html)
