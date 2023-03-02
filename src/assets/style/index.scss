@@ -1,0 +1,33 @@
+@import './common.scss';
+@import './uview.scss';
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  color: $uni-text-color;
+  background-color: #f0f4f8;
+  font-size: $uni-font-size-base;
+}
+
+p {
+  margin: 0;
+}
+
+img,
+image,
+video {
+  width: 100%;
+}
+
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  color: transparent;
+}
+
+.page {
+  padding: 12px;
+  min-height: 100%;
+}
