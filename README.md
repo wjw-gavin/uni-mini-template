@@ -1,9 +1,10 @@
 # mini-template-next
+
 uni-app + uView-ui + unocss + native-lodash
 
 - [uni-app](https://uniapp.dcloud.net.cn)
 - [uView-ui](https://www.uviewui.com/components/intro.html)
-- [native-lodash](https://git.nucarf.cn/frontend/example/native-lodash/blob/master/README.md)
+- [native-lodash](https://github.com/wjw-gavin/native-lodash)
 
 ## 目录结构
 
@@ -23,16 +24,16 @@ uni-app + uView-ui + unocss + native-lodash
 │   │
 │   ├── static              // 放置一些静态资源
 │   │     └── images        // 图片
-│   │  
+│   │
 │   ├── store               // vuex 相关配置
 │   │     └── modules       // 功能模块状态管理
 │   │     └── index.js      // 自动导入 store module
-│   │  
+│   │
 │   ├── utils               // 工具方法
 │   │     └── auth.js       // token 相关
 │   │     └── global.js     // 全局的一些方法，可以通过this.xxx调用
 │   │     └── index.js      // 常用的工具方法
 │   │
-└── vue.config.js           // 详细见https://cli.vuejs.org/zh/config/#vue-config-js 
+└── vue.config.js           // 详细见https://cli.vuejs.org/zh/config/#vue-config-js
 
 ```
