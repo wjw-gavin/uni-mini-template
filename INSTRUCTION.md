@@ -7,7 +7,7 @@
 
 ## 内置 css
 
-详情见 [src/assets/style/common.scss](https://git.nucarf.cn/frontend/example/mini-template-next/blob/master/src/assets/style/common.scss)
+详情见 [src/assets/style/common.scss](https://github.com/wjw-gavin/uni-mini-template/blob/main/src/assets/style/common.scss)
 
 ## tabbar 底部导航栏
 
