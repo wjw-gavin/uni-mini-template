@@ -113,13 +113,10 @@ export default {
     },
 
     loginFun() {
-      this.$loading()
-      setTimeout(() => {
-        this.$u.toast('跳转首页')
-        // uni.reLaunch({
-        //   url: 'your path'
-        // })
-      }, 1000)
+      this.$u.toast('跳转首页')
+      // uni.reLaunch({
+      //   url: 'your path'
+      // })
     },
 
     // 隐私协议
